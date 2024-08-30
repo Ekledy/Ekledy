@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ekledy
-- 👀 I’m interested in studying new coding
+- 👀 I’m interested in studying  coding
 - 🌱 I’m currently learning HTML5 and CSS
 
 - 😄 Pronouns: he/him
